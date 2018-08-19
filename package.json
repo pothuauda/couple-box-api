@@ -1,0 +1,24 @@
+{
+  "name": "couple-box",
+  "version": "0.0.1",
+  "description": "Couple application to break routine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pothuauda/couple-box-api.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "heroku"
+  ],
+  "author": "pothuauda",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/pothuauda/couple-box-api/issues"
+  },
+  "homepage": "https://github.com/pothuauda/couple-box-api#readme"
+}
